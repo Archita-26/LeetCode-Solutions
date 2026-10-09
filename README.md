@@ -21,4 +21,5 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0595-big-countries](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0607-sales-person) |
+| [1341-movie-rating](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
