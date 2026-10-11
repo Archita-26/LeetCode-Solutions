@@ -24,4 +24,12 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0596-classes-with-at-least-5-students](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1341-movie-rating](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1341-movie-rating) |
+## Array
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
