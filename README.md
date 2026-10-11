@@ -37,4 +37,8 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
