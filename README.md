@@ -28,6 +28,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -41,4 +42,20 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
