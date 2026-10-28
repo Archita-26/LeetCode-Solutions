@@ -29,6 +29,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0619-biggest-single-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1341-movie-rating](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1341-movie-rating) |
 ## Array
 |  |
