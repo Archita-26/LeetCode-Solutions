@@ -28,6 +28,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0610-triangle-judgement](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1341-movie-rating](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1341-movie-rating) |
 ## Array
 |  |
