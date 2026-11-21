@@ -41,6 +41,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Enumeration
 |  |
@@ -67,6 +68,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
