@@ -41,6 +41,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,16 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## String
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
