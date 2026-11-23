@@ -49,6 +49,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -71,11 +72,13 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
