@@ -30,6 +30,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0620-not-boring-movies](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
