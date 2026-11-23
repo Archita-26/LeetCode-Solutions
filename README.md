@@ -78,6 +78,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
@@ -104,4 +105,12 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
