@@ -39,6 +39,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1407-top-travellers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1407-top-travellers) |
 ## Array
 |  |
 | ------- |
