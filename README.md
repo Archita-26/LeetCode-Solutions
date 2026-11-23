@@ -64,10 +64,12 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | ------- |
 | [0009-palindrome-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Greedy
 |  |
 | ------- |
