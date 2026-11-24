@@ -49,11 +49,13 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | ------- |
 | [0009-palindrome-number](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -123,4 +126,12 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
