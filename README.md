@@ -51,6 +51,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 | [3985-palindromic-subarray-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3985-palindromic-subarray-sum) |
 ## Enumeration
@@ -71,6 +72,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [1352-product-of-the-last-k-numbers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 ## Binary Search
 |  |
