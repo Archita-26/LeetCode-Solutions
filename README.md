@@ -51,12 +51,14 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 | [3985-palindromic-subarray-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3985-palindromic-subarray-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [1352-product-of-the-last-k-numbers](https://github.com/Archita-26/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 ## Design
 |  |
 | ------- |
@@ -137,6 +141,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
 ## Hash Function
 |  |
 | ------- |
