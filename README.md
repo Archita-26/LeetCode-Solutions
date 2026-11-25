@@ -50,6 +50,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3984-divisible-game](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3984-divisible-game) |
@@ -65,6 +66,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3985-palindromic-subarray-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3985-palindromic-subarray-sum) |
 ## Greedy
 |  |
@@ -148,9 +151,18 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 ## Hash Function
 |  |
 | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3985-palindromic-subarray-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3985-palindromic-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [3983-subsequence-after-one-replacement](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
