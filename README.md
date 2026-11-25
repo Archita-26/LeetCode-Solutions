@@ -99,6 +99,7 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 | [0020-valid-parentheses](https://github.com/Archita-26/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Archita-26/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3983-subsequence-after-one-replacement](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +147,8 @@ Repository for tracking my daily coding practice and LeetCode solutions.
 |  |
 | ------- |
 | [3985-palindromic-subarray-sum](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3985-palindromic-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [3983-subsequence-after-one-replacement](https://github.com/Archita-26/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
 <!---LeetCode Topics End-->
